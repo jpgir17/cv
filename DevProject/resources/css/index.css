@@ -1,0 +1,16 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color:darkgreen
+}
+
+p,
+li {
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
